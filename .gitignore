@@ -1,0 +1,28 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Burst compiler generated debug info
+*.BurstDebugInformation_DoNotShip/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash handler / compiled binaries
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.so
+*.dylib
+
+# Unity crash handler executable
+UnityCrashHandler64.exe
+
+# User settings
+UserSettings/
